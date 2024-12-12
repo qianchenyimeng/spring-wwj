@@ -12,7 +12,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * 创建时间：2024/12/3
  * 修改人：吴文进
  * 修改时间：
- * 修改备注：
+ * 修改备注：上传到github上
  *
  * @version 1.0
  */
